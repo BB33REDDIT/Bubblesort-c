@@ -18,10 +18,10 @@ a[j+1] = temp;
 void main()
 {
 int n,i;
-printf("Enter the total number of elements");
+printf("Enter the total number of elements:");
 scanf("%d",&n);
 int a[n];
-printf("Enter the elements\n");
+printf("Enter the elements:\n");
 for(i=0;i<n;i++)
 {
 scanf("%d",&a[i]);
